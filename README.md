@@ -5,7 +5,7 @@
 3. Paste the URL: https://github.com/viajook/docker-spring-boot-app.git
 5. Allow Visual Studio Code to do the cloning, and then Reopen in Container
 6. Click to allow reopening in a dev container
-7. Test with VS Code Run Java or use the following commmands:
+7. Test with VS Code Run Java or use the following commmands on the terminal:
 ```maven
 ./mvnw spring-boot:run
 ./mvnw spring-boot:stop
